@@ -1,7 +1,7 @@
 export const increment = () => {
     return {
         type: 'INCREMENT',
-        payload : 69
+        payload : 12
     }
 }
 
